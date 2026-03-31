@@ -1,0 +1,74 @@
+﻿  common_utils.c
+  main.c
+D:\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(30284,9): warning C4005: “FAILED”: 宏重定义
+  basic_syntax.c
+  (编译源文件“main.c”)
+      D:\Code\Trae_code\C_Code\common\common_types.h(417,9):
+      参见“FAILED”的前一个定义
+  
+  control_flow.c
+D:\Code\Trae_code\C_Code\modules\02_control_flow\control_flow.c(424,23): warning C4013: “malloc”未定义；假设外部返回 int
+D:\Code\Trae_code\C_Code\modules\02_control_flow\control_flow.c(449,9): warning C4013: “free”未定义；假设外部返回 int
+  function_scope.c
+  array_string.c
+  pointer_memory.c
+  struct_union.c
+  preprocessor.c
+D:\Code\Trae_code\C_Code\modules\07_preprocessor\preprocessor.c(301,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      D:\Code\Trae_code\C_Code\modules\07_preprocessor\preprocessor.c(301,12):
+      占位符和其参数预计 4 可变参数，但提供的却是 0 参数
+      D:\Code\Trae_code\C_Code\modules\07_preprocessor\preprocessor.c(301,12):
+      缺失的可变参数 1 为格式字符串“%s”所需
+  
+D:\Code\Trae_code\C_Code\modules\07_preprocessor\preprocessor.c(308,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      D:\Code\Trae_code\C_Code\modules\07_preprocessor\preprocessor.c(308,12):
+      占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+      D:\Code\Trae_code\C_Code\modules\07_preprocessor\preprocessor.c(308,12):
+      缺失的可变参数 1 为格式字符串“%s”所需
+  
+  file_io.c
+D:\Code\Trae_code\C_Code\modules\08_file_io\file_io.c(481,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      D:\Code\Trae_code\C_Code\modules\08_file_io\file_io.c(481,12):
+      占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+      D:\Code\Trae_code\C_Code\modules\08_file_io\file_io.c(481,12):
+      缺失的可变参数 1 为格式字符串“%d”所需
+  
+D:\Code\Trae_code\C_Code\modules\08_file_io\file_io.c(482,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      D:\Code\Trae_code\C_Code\modules\08_file_io\file_io.c(482,12):
+      占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+      D:\Code\Trae_code\C_Code\modules\08_file_io\file_io.c(482,12):
+      缺失的可变参数 1 为格式字符串“%d”所需
+  
+  bit_operation.c
+  error_debug.c
+D:\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(30284,9): warning C4005: “FAILED”: 宏重定义
+  (编译源文件“modules/10_error_debug/error_debug.c”)
+      D:\Code\Trae_code\C_Code\common\common_types.h(417,9):
+      参见“FAILED”的前一个定义
+  
+D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(548,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(548,12):
+      占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+      D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(548,12):
+      缺失的可变参数 1 为格式字符串“%s”所需
+  
+D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(589,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(589,12):
+      占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+      D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(589,12):
+      缺失的可变参数 1 为格式字符串“%d”所需
+  
+D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(827,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(827,12):
+      占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+      D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(827,12):
+      缺失的可变参数 1 为格式字符串“%s”所需
+  
+D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(830,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(830,12):
+      占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+      D:\Code\Trae_code\C_Code\modules\10_error_debug\error_debug.c(830,12):
+      缺失的可变参数 1 为格式字符串“%s”所需
+  
+  正在生成代码...
+  EmbeddedCLearning.vcxproj -> D:\Code\Trae_code\C_Code\bin\Win32\Debug\EmbeddedCLearning.exe
